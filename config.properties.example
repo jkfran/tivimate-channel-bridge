@@ -1,0 +1,4 @@
+# Copy to the app's external files dir on the device (no root needed):
+#   adb push config.properties /sdcard/Android/data/com.jkfran.tivimatebridge/files/config.properties
+# then toggle the accessibility service off/on (or reboot).
+ha_webhook_url=http://homeassistant.local:8123/api/webhook/tivimate_channel

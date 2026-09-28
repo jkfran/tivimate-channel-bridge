@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_description">Reads the currently playing TiviMate channel from the on-screen info bar and reports it to Home Assistant. No root required.</string>
+</resources>
